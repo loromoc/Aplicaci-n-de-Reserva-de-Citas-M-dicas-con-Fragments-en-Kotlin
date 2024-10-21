@@ -5,5 +5,9 @@ En este repositorio se podra observar la realizacion de la aplicacion del Alumno
 
 
 
+https://github.com/user-attachments/assets/9cfc00c1-6dcd-4b57-8ce8-8bcfd507a033
+
+
+
 https://github.com/user-attachments/assets/41bcd5fa-7165-4de7-893d-a080d35a47f7
 
